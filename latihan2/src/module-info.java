@@ -1,0 +1,2 @@
+module latihan2 {
+}
